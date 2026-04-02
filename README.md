@@ -1,6 +1,6 @@
 <img
-width=100%
-src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"
+    width=100%
+    src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"
 />
 
 # ⚙️ BSB Compute – Sistema de Orquestração de Tarefas
@@ -23,7 +23,7 @@ O objetivo é reproduzir o cenário de empresas de IA em nuvem, lidando com múl
 - Utilizar IPC (pipes, filas ou sockets) para comunicação entre processos
 - Monitorar o desempenho do cluster
 - Simular chegada contínua de novas requisições
-  <br>
+<br>
 
 ---
 
@@ -59,29 +59,30 @@ BSB-Compute/
 
 ### 🛠️ Tecnologias Utilizadas
 <img
-align="left"
-alt="Java"
-title="Java"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img
-align="left"
-alt="IntelliJ IDEA"
-title="IntelliJ IDEA"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+    align="left"
+    alt="IntelliJ IDEA"
+    title="IntelliJ IDEA"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
 />
 <img
-align="left"
-alt="GitHub"
-title="GitHub"
-width="30px"
-style="padding-right: 10px;"
-src="https://skillicons.dev/icons?i=github"
+    align="left"
+    alt="GitHub"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://skillicons.dev/icons?i=github"
 />
+
 <br><br>
 
 ---
@@ -157,6 +158,6 @@ git clone https://github.com/devlucasaf/BSB-Compute---Sistema-de-Orquestracao-de
 - Tempo de espera máximo
 
 <img
-width=100%
-src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"
+    width=100%
+    src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"
 />
