@@ -32,24 +32,27 @@ O objetivo é reproduzir o cenário de empresas de IA em nuvem, lidando com múl
 ```
 BSB-Compute/
 └── bsb-compute/
-    └── src/
-        └── main/
-            ├── config/
-            │   ├── Config
-            │   ├── RequisicaoConfig
-            │   └── ServidorConfig
-            ├── core/
-            │   └── Master
-            ├── model/
-            │   ├── EventMessage
-            │   ├── Request
-            │   ├── TaskMessage
-            │   └── WorkerInfo
-            ├── scheduler/
-            │   └── Scheduler
-            └── worker/
-                └── Worker
-            Main
+    ├── src/
+    │   └── main/
+    │       ├── config/
+    │       │   ├── Config.java
+    │       │   ├── RequisicaoConfig.java
+    │       │   └── ServidorConfig.java
+    │       ├── core/
+    │       │   └── Master.java
+    │       ├── model/
+    │       │   ├── EventMessage.java
+    │       │   ├── Request.java
+    │       │   ├── TaskMessage.java
+    │       │   └── WorkerInfo.java
+    │       ├── scheduler/
+    │       │   └── Scheduler.java
+    │       ├── worker/
+    │       │   └── Worker.java
+    │       └── Main.java
+    ├── out/production/bsb-compute/main
+    ├── projeto_pratico-2025.2.pdf
+    └── README.md
 ```
 
 ---
